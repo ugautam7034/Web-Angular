@@ -1,2 +1,2 @@
-# Web-Angular
+# module1-solution
 Test repo for coursera
